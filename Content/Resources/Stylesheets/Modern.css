@@ -1,0 +1,415 @@
+/*<meta />*/
+
+body
+{
+	font-family: Arial;
+	font-size: 13px;
+	line-height: 1.7em;
+	margin: 17px;
+	max-width: 750px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+{
+	font-weight: bold;
+	color: #749AB6;
+}
+
+p.example
+{
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	color: #636466;
+	background-color: #fbde64;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 14px;
+	padding-bottom: 14px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-left-color: #636466;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-right-color: #636466;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: #636466;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #636466;
+}
+
+p.note
+{
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	background-color: #f89921;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-left-color: #b7b7b8;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-right-color: #b7b7b8;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: #b7b7b8;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #b7b7b8;
+	color: #636466;
+}
+
+a
+{
+	color: #5B8EC1;
+}
+
+MadCap|expanding
+{
+	mc-open-image: url('resources:Images/WebHelp/minus.png');
+	mc-closed-image: url('resources:Images/WebHelp/plus.png');
+	mc-image-position: left;
+}
+
+MadCap|dropDown
+{
+	mc-open-image: url('resources:Images/WebHelp/minus.png');
+	mc-closed-image: url('resources:Images/WebHelp/plus.png');
+}
+
+MadCap|toggler
+{
+	mc-open-image: url('resources:Images/WebHelp/minus.png');
+	mc-closed-image: url('resources:Images/WebHelp/plus.png');
+	color: inherit;
+}
+
+MadCap|popupHead
+{
+	color: #5B8EC1;
+}
+
+MadCap|popupBody
+{
+	color: #EBEBEB;
+	border: none;
+	background-color: rgba(0, 0, 0, .85);
+	padding: 11px 15px;
+}
+
+MadCap|glossaryTerm
+{
+	
+}
+
+MadCap|glossaryTerm.Expanding
+{
+	color: inherit;
+	font-weight: inherit;
+}
+
+MadCap|glossaryTerm.Hyperlink
+{
+	color: #5B8EC1;
+	font-weight: inherit;
+}
+
+MadCap|glossaryTerm.Popup
+{
+	color: #5B8EC1;
+	font-weight: normal;
+}
+
+MadCap|conceptLink
+{
+	color: #000000;
+}
+
+MadCap|keywordLink
+{
+	color: #000000;
+}
+
+MadCap|relatedTopics
+{
+	color: #000000;
+}
+
+MadCap|helpControlMenu
+{
+	color: #707070;
+	background-color: #FFFFFF;
+	border: none;
+}
+
+MadCap|helpControlMenuItem
+{
+	color: inherit;
+	font-size: inherit;
+	font-family: inherit;
+}
+
+MadCap|helpControlMenuItem.Highlighted
+{
+	color: #000000;
+	background-color: #E5EFF7;
+}
+
+h1
+{
+	font-family: 'Source Sans Pro Semibold';
+	color: #f04c23;
+	font-size: 20pt;
+	page-break-before: always;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+}
+
+h2
+{
+	font-family: 'Source Sans Pro Semibold';
+	color: #f04c23;
+	font-size: 16pt;
+}
+
+h3
+{
+	font-size: 14pt;
+	font-family: 'Source Sans Pro Semibold';
+	color: #f04c23;
+}
+
+p
+{
+	font-size: 10pt;
+	font-family: 'Source Sans Pro';
+	color: #636466;
+	mc-hyphenate: never;
+	margin-top: 1.12em;
+	line-height: 1.10em;
+}
+
+MadCap|footnotesBlock
+{
+	font-family: 'Source Sans Pro';
+	color: #636466;
+}
+
+MadCap|footnoteBlock
+{
+	font-family: 'Source Sans Pro';
+	color: #636466;
+}
+
+MadCap|footnote
+{
+	font-family: 'Source Sans Pro';
+	font-size: 8pt;
+	color: #636466;
+}
+
+h1.Chapter
+{
+	mc-auto-number-format: 'Chapter {chapnum} ';
+}
+
+h2.Section
+{
+	mc-auto-number-format: '{chapnum}.{secnum} ';
+}
+
+@media print
+{
+	p
+	{
+		text-align: justify;
+		margin-bottom: 6pt;
+		margin-top: 6pt;
+		page-break-inside: avoid;
+	}
+
+	h3.Section
+	{
+		
+	}
+
+	p.TOC1
+	{
+		margin: 0;
+		margin-bottom: 0.5em;
+		margin-top: 0.5em;
+	}
+
+	p.TOC2
+	{
+		margin-bottom: 0pt;
+		margin-top: 0pt;
+	}
+
+	ol
+	{
+		
+	}
+
+	p.TOC3
+	{
+		margin-bottom: 0pt;
+		margin-top: 0pt;
+	}
+
+	MadCap|indexProxy
+	{
+		padding-top: 10px;
+		margin-top: 10px;
+		mc-column-count: 1;
+	}
+
+	p.Index1
+	{
+		margin-top: 0pt;
+		margin-bottom: 0pt;
+	}
+
+	p.Index2
+	{
+		margin-bottom: 0pt;
+		margin-top: 0pt;
+	}
+}
+
+h3.Section
+{
+	mc-auto-number-format: '{chapnum}.{secnum}.{n+} ';
+	margin-bottom: 0.83em;
+}
+
+h1.NoNumber
+{
+	
+}
+
+h1.NoNumberNoTOC
+{
+	mc-heading-level: 0;
+}
+
+MadCap|tocProxy
+{
+	border-top-width: 0px;
+	margin-top: 10px;
+	padding-top: 10px;
+}
+
+h1.Title
+{
+	text-align: center;
+	mc-heading-level: 0;
+	page-break-before: avoid;
+	font-size: 48pt;
+}
+
+h1.Appendix
+{
+	mc-auto-number-format: 'Appendix {chapnum} ';
+}
+
+span.ChapAutoNum
+{
+	
+}
+
+MadCap|indexProxy
+{
+	border-top-width: 0px;
+}
+
+p.Index1
+{
+	mc-leader-align: right;
+	mc-leader-format: '.';
+	mc-leader-offset: 10pt;
+}
+
+p.Index2
+{
+	mc-leader-align: right;
+	mc-leader-format: '.';
+	mc-leader-offset: 10pt;
+}
+
+MadCap|xref
+{
+	mc-format: '{i}{paranum} {paratext}{/i} on page {page}';
+}
+
+MadCap|xref.Chapter_Section
+{
+	mc-format: '{i}{paranum} {paratext}{/i}';
+}
+
+MadCap|xref.Chapter_Section_NumberOnly
+{
+	mc-format: '{i}{paranum}{/i}';
+}
+
+h4
+{
+	color: #f04c23;
+	font-family: 'Source Sans Pro Semibold';
+	font-size: 12pt;
+	mc-heading-level: 0;
+	margin-bottom: 1.12em;
+}
+
+p.caution
+{
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-left-color: #b7b7b8;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-right-color: #b7b7b8;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: #b7b7b8;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #b7b7b8;
+	color: #636466;
+	background-color: #f04c23;
+}
+
+p.TOC1
+{
+	margin-top: 1em;
+	line-height: 1.1em;
+	margin-bottom: 1em;
+}
+
+h1.Part
+{
+	text-align: center;
+	page-break-before: avoid;
+	font-size: 48pt;
+	mc-heading-level: 1;
+	mc-auto-number-format: 'Part {volnum} ';
+}
+
