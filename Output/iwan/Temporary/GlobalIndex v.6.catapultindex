@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalIndex
+  SavedSource="file:///C:/Users/iwan/Documents/GitHub/silstatdashboardhelp/Output/iwan/Temporary/GlobalIndex v.6.catapultindex">
+  <IndexEntry>
+    <Entries>
+      <IndexEntry
+        Term="Lorem">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="B-Feature-Topics/Feature1.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="B-Feature-Topics/Feature3.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Nullam">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="C-Procedure-Topics/Procedure2.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+    </Entries>
+    <Links />
+    <SeeAlsoLinks />
+    <IndexControlLinks />
+    <SortAsLinks />
+  </IndexEntry>
+  <SourceUrls>
+    <Url
+      Source="Home.htm" />
+    <Url
+      Source="Template Instructions.pdf" />
+    <Url
+      Source="0-00 TitlePage/Contents.htm" />
+    <Url
+      Source="0-00 TitlePage/Copyright.htm" />
+    <Url
+      Source="0-00 TitlePage/Titlepage.htm" />
+    <Url
+      Source="A-Introduction-Topics/Getting-Started.htm" />
+    <Url
+      Source="A-Introduction-Topics/More-Information.htm" />
+    <Url
+      Source="A-Introduction-Topics/Whats-New.htm" />
+    <Url
+      Source="B-Feature-Topics/Feature1.htm" />
+    <Url
+      Source="B-Feature-Topics/Feature2.htm" />
+    <Url
+      Source="B-Feature-Topics/Feature3.htm" />
+    <Url
+      Source="B-Feature-Topics/Features.htm" />
+    <Url
+      Source="C-Procedure-Topics/Procedure1.htm" />
+    <Url
+      Source="C-Procedure-Topics/Procedure2.htm" />
+    <Url
+      Source="C-Procedure-Topics/Procedure3.htm" />
+    <Url
+      Source="C-Procedure-Topics/Procedures.htm" />
+    <Url
+      Source="D-Reference/Company.htm" />
+    <Url
+      Source="D-Reference/FAQs.htm" />
+    <Url
+      Source="D-Reference/Tips.htm" />
+    <Url
+      Source="E-Frontmatter-Topics/Title.htm" />
+    <Url
+      Source="Resources/Graphics/exsilentia 322x55.png" />
+    <Url
+      Source="Resources/Graphics/exsilentia.png" />
+    <Url
+      Source="Resources/Graphics/exSILentia4_icon.png" />
+    <Url
+      Source="Resources/Graphics/exsilentia_v4_bolierplate.png" />
+    <Url
+      Source="Resources/Graphics/exsilentia_v4_options.png" />
+    <Url
+      Source="Resources/Graphics/exsilentia_v4_version_no.png" />
+    <Url
+      Source="Resources/Images/Backmatter-Heading-Background.png" />
+    <Url
+      Source="Resources/Images/Hero-Image-Print.png" />
+    <Url
+      Source="Resources/Images/Hero-Image.png" />
+    <Url
+      Source="Resources/Images/Icon-Checkbox.png" />
+    <Url
+      Source="Resources/Images/Icon-Download.png" />
+    <Url
+      Source="Resources/Images/Icon-Forum.png" />
+    <Url
+      Source="Resources/Images/Icon-Gears.png" />
+    <Url
+      Source="Resources/Images/Icon-PDFs.png" />
+    <Url
+      Source="Resources/Images/Icon-Popular-Topics.png" />
+    <Url
+      Source="Resources/Images/Icon-Videos.png" />
+    <Url
+      Source="Resources/Images/Logo.eps" />
+    <Url
+      Source="Resources/Images/Logo.png" />
+    <Url
+      Source="Resources/Images/Minus.png" />
+    <Url
+      Source="Resources/Images/Plus.png" />
+    <Url
+      Source="Resources/MasterPages/Home-Page.flmsp" />
+    <Url
+      Source="Resources/MasterPages/Other-Topics.flmsp" />
+    <Url
+      Source="Resources/PageLayouts/Chapters.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/Frontmatter.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/X4.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/X4Blank.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/X4Landscape.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/X4Part.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/X4SuperLandPortrait.flpgl" />
+    <Url
+      Source="Resources/Stylesheets/Modern.css" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css" />
+    <Url
+      Source="Resources/TableStyles/Alternate-Row-Color.css" />
+  </SourceUrls>
+  <SourceLinkSetUrls />
+  <UsedUrls>
+    <Url
+      Source="B-Feature-Topics/Feature1.htm"
+      Terms="Lorem" />
+    <Url
+      Source="B-Feature-Topics/Feature3.htm"
+      Terms="Lorem" />
+    <Url
+      Source="C-Procedure-Topics/Procedure2.htm"
+      Terms="Nullam" />
+  </UsedUrls>
+  <UsedIndexControlUrls />
+</CatapultGlobalIndex>
