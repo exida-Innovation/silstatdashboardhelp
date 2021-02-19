@@ -10,7 +10,8 @@
   InjectEmptyPages="false"
   MasterToc="/Project/TOCs/User Guide Print.fltoc"
   MasterPageLayout="/Content/Resources/PageLayouts/X4.flpgl"
-  MasterStylesheet="/Content/Resources/Stylesheets/Modern.css">
+  MasterStylesheet="/Content/Resources/Stylesheets/Modern.css"
+  OutputFolder="C:\Users\iwan\Documents\GitHub\silstatdashboardhelp">
   <PrintedOutput
     CollapseMargins="false"
     ExpandingTextConversion="expand"

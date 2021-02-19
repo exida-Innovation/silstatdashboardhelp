@@ -11,7 +11,8 @@
   ShowMadCapBacklink="false"
   MasterToc="/Project/TOCs/User Guide HTML5.fltoc"
   MasterStylesheet="/Content/Resources/Stylesheets/Modern.css"
-  Skin="/Project/Skins/Side-Navigation-X4.flskn">
+  Skin="/Project/Skins/Side-Navigation-X4.flskn"
+  OutputFolder="C:\Users\iwan\Documents\GitHub\silstatdashboardhelp">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
